@@ -1,0 +1,3 @@
+<think> The image shows a person riding a bicycle on a path at night. The bicycle is clearly visible and is the main focus of the image. The rider is wearing a helmet and is moving away from the camera. The path appears to be well-lit, and there are trees and buildings in the background.
+</think>
+<answer>[{"bbox_2d": [636, 422, 697, 566], "point_2d": [676, 480], "label": "bicycle"}]</answer>
